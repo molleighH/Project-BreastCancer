@@ -32,3 +32,6 @@ mpl.ylabel('Number of Patients Surviving to x Months')
 mpl.title('Survival Month Distribution by Marital Status')
 mpl.legend(title='Range of months Survived', loc='upper right')
 mpl.show()
+
+
+grouped.describe()
