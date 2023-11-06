@@ -20,11 +20,13 @@ In this project, we are looking into various factors in women’s lives that can
 5.	Are positive nodes correlated to months survived?
 
 Data Sources
+
 1.	https://www.kaggle.com/datasets/reihanenamdari/breast-cancer
 
 2.	https://datahub.io/machine-learning/breast-cancer#resource-breast-cancer
 
 Data Preparation.
+
 	Two datasets were selected from the data sources as .csv files. Python Pandas is used to clean up the datasets. The columns of interest were selected from both data frames and concatenated together.
 
 
@@ -69,6 +71,7 @@ Age, Survival, and Recurrence
 
 
 References
+
 1. The American Cancer Society. (2023, Sept 14). How common is breast cancer? Retrieved from https://www.cancer.org/: https://www.cancer.org/cancer/types/breast-cancer/about/how-common-is-breast-cancer.html
 
 
