@@ -28,27 +28,40 @@ Data Preparation.
 
 
 Analysis and Visualizations
+
 	The tools used are, Pandas, SciPy, NumPy, Matplotlib, and Seaborn
 Menopause VS Recurrence
+
+![image](https://github.com/molleighH/Project-BreastCancer-/assets/25726099/f119ae9d-0c9a-41c0-98a5-f8a67acb7b51)
 	
  
-The Chi-square test of independence was conducted to determine if there is a significant association between the two categorical variables. The Chi-square statistic (52.869106353110936) is relatively large, indicating a greater deviation from what we would expect if the variables were independent.
+The Chi-square test of independence was conducted to determine if there was a significant association between the two categorical variables. The Chi-square statistic (52.869106353110936) is relatively large, indicating a greater deviation from what we would expect if the variables were independent.
 The p-value (3.308410754095632e-12) is extremely small, suggesting a significant association between the two variables.
+
 Menopause Vs Survival
- 
+
+ ![image](https://github.com/molleighH/Project-BreastCancer-/assets/25726099/c92150c8-64ab-4ead-a701-16a921bfabfe)
 
  
 Menopause Vs Metastasis
+
 ![image](https://github.com/molleighH/Project-BreastCancer-/assets/25726099/7cf15c5f-94fd-4f5e-a503-1c22ba687585)
+
+![image](https://github.com/molleighH/Project-BreastCancer-/assets/25726099/35c6d43c-4c40-4bd0-8abe-d5b02da5c9e6)
+
 
  
 Marital Status Vs Survival 
 
+![image](https://github.com/molleighH/Project-BreastCancer-/assets/25726099/4c5adaaa-ff81-43e9-b105-a5edcfa0eadd)
+
+
 Positive Nodes Vs Survival
 
+![image](https://github.com/molleighH/Project-BreastCancer-/assets/25726099/f5242d8d-0dc8-4ef0-a42b-2a6d4bcf670b)
 
 
-
-The American Cancer Society. (2023, Sept 14). How common is breast cancer? Retrieved from https://www.cancer.org/: https://www.cancer.org/cancer/types/breast-cancer/about/how-common-is-breast-cancer.html
+References
+1. The American Cancer Society. (2023, Sept 14). How common is breast cancer? Retrieved from https://www.cancer.org/: https://www.cancer.org/cancer/types/breast-cancer/about/how-common-is-breast-cancer.html
 
 
