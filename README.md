@@ -73,7 +73,7 @@ Data Preparation.
 Analysis and Visualizations
 	The tools used are, Pandas, SciPy, NumPy, Matplotlib, and Seaborn
 Menopause VS Recurrence
-	
+
  
 The Chi-square test of independence was conducted to determine if there is a significant association between the two categorical variables. The Chi-square statistic (52.869106353110936) is relatively large, indicating a greater deviation from what we would expect if the variables were independent.
 The p-value (3.308410754095632e-12) is extremely small, suggesting a significant association between the two variables.
@@ -88,4 +88,7 @@ Marital Status Vs Survival
 Positive Nodes Vs Survival
 
  
+Reference:
+The American Cancer Society. (2023, Sept 14). How common is breast cancer? Retrieved from https://www.cancer.org/: https://www.cancer.org/cancer/types/breast-cancer/about/how-common-is-breast-cancer.html
+
 
