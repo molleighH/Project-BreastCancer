@@ -43,11 +43,13 @@ Menopause Vs Survival
  ![image](https://github.com/molleighH/Project-BreastCancer-/assets/25726099/c92150c8-64ab-4ead-a701-16a921bfabfe)
 
  
+![image](https://github.com/molleighH/Project-BreastCancer-/assets/25726099/35c6d43c-4c40-4bd0-8abe-d5b02da5c9e6)
+ 
 Menopause Vs Metastasis
 
 ![image](https://github.com/molleighH/Project-BreastCancer-/assets/25726099/7cf15c5f-94fd-4f5e-a503-1c22ba687585)
 
-![image](https://github.com/molleighH/Project-BreastCancer-/assets/25726099/35c6d43c-4c40-4bd0-8abe-d5b02da5c9e6)
+
 
 
  
