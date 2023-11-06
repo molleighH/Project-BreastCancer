@@ -13,6 +13,7 @@ Project Overview
  Breast Cancer is the second most common cancer in women in the United States. It is about 30% of the new cancers detected in women each year. According to the American Cancer Society, the average risk for a woman in the United States to develop breast cancer is 13%. (The American Cancer Society, 2023)
  
 In this project, we are looking into various factors in women’s lives that can affect the outcomes of breast cancer. The relationships we selected to study are:
+
 1.	Is menopausal status correlated with recurrence?
 2.	Is there any correlation between menopause and the number of months survived?
 3.	Is menopausal status correlated with metastasis?
@@ -25,7 +26,7 @@ Data Sources
 
 2.	https://datahub.io/machine-learning/breast-cancer#resource-breast-cancer
 
-Data Preparation.
+Data Preparation
 
 	Two datasets were selected from the data sources as .csv files. Python Pandas is used to clean up the datasets. The columns of interest were selected from both data frames and concatenated together.
 
