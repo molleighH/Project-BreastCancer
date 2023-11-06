@@ -28,7 +28,7 @@ grouped.plot(kind='line')
 
 mpl.xlabel('Number of Positive Regional Nodes')
 mpl.ylabel('Number of Patients Surviving to x Months')
-mpl.title('Survival Month Distribution by Marital Status')
+mpl.title('Survival Month Distribution by Number of Positive Regional Nodes')
 mpl.legend(title='Range of Months Survived', loc='upper right')
 mpl.show()
 
