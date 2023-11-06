@@ -60,7 +60,7 @@ Positive Nodes Vs Survival
 
 ![image](https://github.com/molleighH/Project-BreastCancer-/assets/25726099/f5242d8d-0dc8-4ef0-a42b-2a6d4bcf670b)
 
-Age, Survival and Recurrence
+Age, Survival, and Recurrence
 
 ![image](https://github.com/molleighH/Project-BreastCancer-/assets/25726099/320ab864-5f6e-4206-9582-b6ec2634be30)
 
