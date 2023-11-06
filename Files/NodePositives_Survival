@@ -1,0 +1,35 @@
+import matplotlib.pyplot as mpl
+import pandas as pd
+import numpy as np
+from scipy.stats import chi2_contingency
+from statsmodels.graphics.mosaicplot import mosaic
+
+df = pd.read_csv(r'/Users/mira.smith/Desktop/uncleandata.csv')
+
+def get_survival_month_group(months):
+    if months < 45:
+        return '<45 Months'
+    elif months <= 60:
+        return '45-60 Months'
+    elif months <= 75:
+        return '61-75 Months'
+    else:
+        return '76+ Months'
+
+df['Survival Month Group'] = df['Survival Months'].apply(get_survival_month_group)
+
+survival_order = ['<45 Months', '45-60 Months', '61-75 Months', '76+ Months']
+df['Survival Month Group'] = pd.Categorical(df['Survival Month Group'], categories=survival_order, ordered=True)
+df = df.sort_values('Survival Month Group')
+
+grouped = df.groupby(['Reginol Node Positive', 'Survival Month Group']).size().unstack()
+
+grouped.plot(kind='line')
+
+mpl.xlabel('Number of Positive Regional Nodes')
+mpl.ylabel('Number of Patients Surviving to x Months')
+mpl.title('Survival Month Distribution by Number of Positive Regional Nodes')
+mpl.legend(title='Range of Months Survived', loc='upper right')
+mpl.show()
+
+grouped.describe()
