@@ -70,6 +70,10 @@ Age, Survival, and Recurrence
 ![image](https://github.com/molleighH/Project-BreastCancer-/assets/25726099/320ab864-5f6e-4206-9582-b6ec2634be30)
 
 
+Links
+
+The Jupyter notebooks, PowerPoint slides, and PDF files can be found in Files
+
 Conclusion
 
 
