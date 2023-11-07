@@ -69,7 +69,9 @@ Age, Survival, and Recurrence
 
 ![image](https://github.com/molleighH/Project-BreastCancer-/assets/25726099/320ab864-5f6e-4206-9582-b6ec2634be30)
 
-Conclusion:
+Conclusion
+
+
 Our analysis shows that the months of survival after diagnosis are related to marital status and the presence of lymph node involvement. The metastasis to remote areas is correlated to menopausal status and age. We need to explore more datasets to get more conclusive results
 
 References
