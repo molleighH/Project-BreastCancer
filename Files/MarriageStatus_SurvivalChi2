@@ -1,0 +1,8 @@
+contingency_table = pd.crosstab(df['Marital Status'], df['Survival Months'])
+
+chi2, p, dof, expected = chi2_contingency(contingency_table)
+
+print(f"Chi-square statistic: {chi2}")
+print(f"P-value: {p}")
+Chi-square statistic: 487.3372285447708
+P-value: 0.01795750858848061
