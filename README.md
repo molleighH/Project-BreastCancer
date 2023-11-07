@@ -73,7 +73,7 @@ Age, Survival, and Recurrence
 Links
 
 The Jupyter notebooks, PowerPoint slides, and PDF files can be found in Files.
-The illustrations are included in 
+The illustrations are included in Images
 
 Conclusion
 
