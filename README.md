@@ -1,4 +1,4 @@
-## Project 1 Michigan State University Data Analysis BootCamp
+## Project 1: Michigan State University Data Analysis BootCamp
 
 # Project-BreastCancer
 ## “Survival Analytics: Charting the Course of Breast Cancer Progression”
